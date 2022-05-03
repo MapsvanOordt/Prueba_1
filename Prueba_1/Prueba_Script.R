@@ -5,3 +5,6 @@ usethis::use_git()
 #Token:
 #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
 edit_r_environ()
+
+usethis::use_github()
+usethis::use_git_remote("origin", url = NULL, overwrite = TRUE)
